@@ -1,0 +1,7 @@
+Credentials cache: API:360A81FC-1D53-4389-85E6-167FF2C33EE0
+        Principal: thile@42.FR
+
+  Issued                Expires               Principal
+Jul  2 15:31:36 2018  Jul  9 15:31:16 2018  krbtgt/42.FR@42.FR
+Jul  2 15:37:08 2018  Jul  9 15:31:16 2018  host/vgs-fn1.42.fr@42.FR
+Jul  2 17:37:25 2018  Jul  9 15:31:16 2018  ldap/ldap-proxy.42.fr@42.FR
